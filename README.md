@@ -9,6 +9,8 @@ A basic username and password checker program
 
 
 ## Run the project
-go to ypur cd directory
+go to your cd directory
+
 python userpass.py
+
 
